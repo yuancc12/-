@@ -5,7 +5,7 @@
 + [自我介紹](https://github.com/yuancc12/web/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [Note](https://github.com/yuancc12/web#note)
 + [作業專區](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
-+ [課堂講義](https://github.com/yuancc12/web/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
++ [課堂講義](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E8%AA%B2%E5%A0%82%E8%AC%9B%E7%BE%A9)
 
 # 簡介
 **授課教師:張玉山教授**
