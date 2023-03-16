@@ -3,7 +3,7 @@
 # 目錄
 + [簡介](https://github.com/yuancc12/Image-Processing#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Image-Processing#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
-+ [作業專區](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
++ [作品集](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [課堂講義](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E8%AA%B2%E5%A0%82%E8%AC%9B%E7%BE%A9)
 
 # 簡介
@@ -22,6 +22,6 @@
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
-# 作業專區
-+ [覆貼](class="img-fluid rounded mb-5" src="assets/img/portfolio/衣服2.2.png")
+# 作品集
++ [覆貼]("https://drive.google.com/drive/folders/1tPtsQHLMYGR7Du7vdPjX3RZ2z8adiULd")
 # 課堂講義
