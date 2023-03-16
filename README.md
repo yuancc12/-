@@ -23,5 +23,5 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 作品集
-+ [覆貼]("https://drive.google.com/drive/folders/1tPtsQHLMYGR7Du7vdPjX3RZ2z8adiULd")
++ [作品集](https://drive.google.com/drive/folders/1tPtsQHLMYGR7Du7vdPjX3RZ2z8adiULd)
 # 課堂講義
