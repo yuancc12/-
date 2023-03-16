@@ -23,5 +23,5 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 作業專區
-+[覆貼]（class="img-fluid rounded mb-5" src="assets/img/portfolio/衣服2.2.png"）
++[覆貼](class="img-fluid rounded mb-5" src="assets/img/portfolio/衣服2.2.png")
 # 課堂講義
