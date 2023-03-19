@@ -28,6 +28,6 @@
 + [作品集](https://drive.google.com/drive/folders/1egcmt-zTLVovPvQJJrsbWx0vskrxJKl1?usp=share_link)
 # 課堂講義
 + [第一周](https://drive.google.com/drive/folders/1-iZTwh76d2YbIQcXrL4PvpyGunWYU7M4?usp=share_link)
-+ [第二周](https://drive.google.com/drive/folders/1EOEVkKt4cGgQf6r84ZzniS3JoMCjnct7?usp=share_link）
++ [第二周](https://drive.google.com/drive/folders/1EOEVkKt4cGgQf6r84ZzniS3JoMCjnct7?usp=share_link)
 + [第三周](https://drive.google.com/drive/folders/1MGo76MruGhCNj6BJt0JpKnVX4XhPeU3F?usp=share_link)
 + [第四周](https://drive.google.com/drive/folders/1u9xSVqMoislnKot0xr8-Fyn3LKgBuWbQ?usp=share_link)
