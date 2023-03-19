@@ -27,4 +27,4 @@
 # 作品集
 + [作品集](https://drive.google.com/drive/folders/1tPtsQHLMYGR7Du7vdPjX3RZ2z8adiULd?usp=share_link)
 # 課堂講義
-+ [第一周](.\0-unit-02-2021)
++ [第一周](.\learning\0-unit-02-2021)
